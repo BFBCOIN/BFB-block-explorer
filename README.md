@@ -38,9 +38,7 @@ Create user with read/write access:
 
 ### Configure
 
-    cp ./settings.json.template ./settings.json
-
-*Make required changes in settings.json*
+ Make required changes in settings.json
 
 ### Start Explorer
 
